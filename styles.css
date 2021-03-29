@@ -25,12 +25,9 @@ body{
 	width: 97%;
 }
 
-@media only screen and (max-width: 480px) {
+@media screen and (max-width: 480px) {
 	.img {
-	  width: 100;
-	}
-	h1{
-		font-size: 2px;
+	  width: 100%;
 	}
   }
 
