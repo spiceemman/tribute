@@ -70,6 +70,9 @@ h1{
 	text-align: center;
 }
 
+.recoded-link:hover{
+	color:burlywood;
+}
 
 @media screen and (max-width: 480px) {
 	.img {
@@ -88,14 +91,20 @@ h1{
 	.img-caption{
 		font-size: 10px;
 	}
+	.timeline-heading{
+		font-size:20px;
+	}
 	.timeline-lists{
 	font-size: 9px;
 	}
 	.blockquote{
 	font-size: 9px;
 	}
+	.wiki{
+		font-size:9px;
+	}
+	.recoded{
+		font-size:7px;
+	}
   }
 
-.recoded-link:hover{
-	color:burlywood;
-}
