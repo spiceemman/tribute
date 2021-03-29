@@ -1,0 +1,73 @@
+body{
+	font-family: Arial, Helvetica, sans-serif;
+	
+	color: #555D50;
+}
+
+.tribute-page{
+	text-align: center;
+	background-color: #eee;
+	padding: 40px 10px 20px;
+	border-radius:10px;
+	margin: 20px auto;
+}
+
+.heading{
+	padding-top:30px;
+	font-size: 60px;
+}
+
+.heading-text{
+	font-size:22px;
+}
+
+.img{
+	width: 97%;
+}
+
+.img-section{
+	background-color: #fff;
+	width: 95%;
+}
+.img-caption{
+	font-size:20px;
+	line-height:2;
+	padding: 20px 0;
+}
+
+.timeline-heading{
+	padding: 60px 0;
+}
+
+.timeline{
+	max-width: 60%;
+	margin: 40px auto;
+}
+
+.timeline-lists{
+	text-align: left;
+	font-size:19px;
+	line-height:2;
+	margin: 25px auto;
+}
+
+.blockquote{
+	font-size: 18px;
+	line-height:1.8;
+	font-style: italic;
+	text-align:left;
+	max-width: 63%;
+	margin: 60px auto;
+}
+
+.wiki{
+	margin: 50px auto;
+}
+
+.recoded{
+	text-align: center;
+}
+
+.recoded-link:hover{
+	color:burlywood;
+}
