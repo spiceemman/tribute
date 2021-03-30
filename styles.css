@@ -99,9 +99,8 @@ h1{
 	}
 	.blockquote{
 	font-size: 9px;
-	}
-	.blockquote-p{
-	font-size:9px;
+	margin: 20px auto;
+	max-width:60%;
 	}
 	.wiki{
 		font-size:9px;
