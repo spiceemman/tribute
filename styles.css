@@ -89,10 +89,11 @@ h1{
 		font-size: 12px;
 	}
 	.img-caption{
-		font-size: 10px;
+		font-size: 9px;
 	}
 	.timeline-heading{
-		font-size:20px;
+		font-size:18px;
+		width: 100%;
 	}
 	.timeline-lists{
 	font-size: 9px;
